@@ -1,0 +1,28 @@
+name: livealandalus
+favicon: null
+layout_spectrum: 0.8302355927880853
+typography_spectrum: 0.06412198883481324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8493248326703906
+  lightness: 0.6323379979003221
+  saturation: 0.6972553920932114
+  rhythmicContrast: 0.03224516147747636
+purpose: []
