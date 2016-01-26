@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[livealandalus]]></title>
         <description><![CDATA[livealandalus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/livealandalus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 10:54:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 11:09:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/livealandalus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bbd12fb-39d6-4124-823a-52c0bc3d284a.png">]]></description>
-            <link>undefined544133c3-ddc6-45cd-9141-1c38528c48a8/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32406d47-12d2-481c-88fc-a2f0d33c1805.jpg">]]></description>
+            <link>https://thegrid.ai/livealandalus/544133c3-ddc6-45cd-9141-1c38528c48a8/index.html</link>
             <guid isPermaLink="false">544133c3-ddc6-45cd-9141-1c38528c48a8</guid>
-            <pubDate>Tue, 26 Jan 2016 10:54:11 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 11:08:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
